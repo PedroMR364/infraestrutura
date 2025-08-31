@@ -67,14 +67,16 @@ Dispositivos Finais (Endpoints) e seu papel em uma rede.<br>
 
 #01_ Dicas de Palavras (Frases) para o Prompt do Chacha (ChatGPT) - Vava #BoraParaPrática 
 
-A) Tabela Resumida e Objetiva sobre...
-B) Texto Resumido sobre...
-C) O que é e para que serve (resumido e objetivo)...
-D) Exemplos do dia a dia sobre...
-E) Onde posso utilizar (de forma resumida e objetiva) sobre...
-F) Quais as melhores opções sobre...
-G) Melhore essa explicação (resumida e objetiva) com fontes confiáveis sobre...
-H) Comparação Lúdica (objetiva) sobre...
+```text
+A) Tabela Resumida e Objetiva sobre...<br>
+B) Texto Resumido sobre...<br>
+C) O que é e para que serve (resumido e objetivo)...<br>
+D) Exemplos do dia a dia sobre...<br>
+E) Onde posso utilizar (de forma resumida e objetiva) sobre...<br>
+F) Quais as melhores opções sobre...<br>
+G) Melhore essa explicação (resumida e objetiva) com fontes confiáveis sobre...<br>
+H) Comparação Lúdica (objetiva) sobre...<br>
+```
 
 Capítulos do vídeo:<br>
 00:00 - Apresentação da Aula 01<br>
@@ -87,4 +89,10 @@ Capítulos do vídeo:<br>
 34:05 - Passivos e Ativos de Redes<br>
 37:10 - Dispositivos Finais (Endpoints)<br>
 38:05 - Finalização e Conclusão<br>
+
+[![Módulo 01 Aula 01](http://img.youtube.com/vi/mKei1YHS67g/0.jpg)](https://www.youtube.com/watch?v=mKei1YHS67g "Módulo 01 Aula 01")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=mKei1YHS67g
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
 
