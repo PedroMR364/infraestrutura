@@ -30,7 +30,7 @@ Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUNtWd6j0aNlkD
 
 📅 Este vídeo é apenas a apresentação. Acompanhe a playlist completa e já se inscreva para não perder as próximas aulas.
 
-Tópicos do vídeo:<br>
+Capítulos do vídeo:<br>
 00:00 - Apresentação do Curso<br>
 02:48 - Conhecendo o Projeto no Github<br>
 03:30 - Repositório do Curso de Infraestrutura<br>
@@ -48,3 +48,43 @@ Tópicos do vídeo:<br>
 Link da vídeo aula: https://www.youtube.com/watch?v=wCInvkUjAjY
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-00.pdf
+
+# Início do Módulo 01 - Introdução a Redes de Computadores - Etapa 01
+
+## **📡 Porte, Tipos e Componentes da Infraestrutura de Redes de Computadores | Módulo 01 Aula 01**
+
+🔌 Nesta primeira aula do Curso de Infraestrutura de Redes de Computadores, vamos explorar conceitos fundamentais que todo profissional de TI precisa dominar para entender como uma rede é projetada, estruturada e mantida.
+
+✅ O que você vai aprender neste vídeo:<br>
+Porte da Infraestrutura de Redes: Redes Residenciais, SOHO (Small Office/Home Office), Redes de Médio e Grande Porte.<br>
+Tipos de Infraestrutura de Redes: Workgroup e Cliente-Servidor.<br>
+Tabela Resumida do Porte de Rede para consulta rápida.<br>
+Componentes da Infraestrutura de Redes: Dispositivos Finais, Interconexões de Rede, Dispositivos de Meio, Serviços e Processos de Rede.<br>
+Diferença entre Passivo de Rede (meio físico) e Ativo de Rede (dispositivos de meio).<br>
+Dispositivos Finais (Endpoints) e seu papel em uma rede.<br>
+
+💡 Ao final desta aula, você terá uma visão clara e prática sobre como cada elemento contribui para o funcionamento de uma rede, desde o cabo que transporta os dados até os equipamentos que processam as informações.
+
+#01_ Dicas de Palavras (Frases) para o Prompt do Chacha (ChatGPT) - Vava #BoraParaPrática 
+
+A) Tabela Resumida e Objetiva sobre...
+B) Texto Resumido sobre...
+C) O que é e para que serve (resumido e objetivo)...
+D) Exemplos do dia a dia sobre...
+E) Onde posso utilizar (de forma resumida e objetiva) sobre...
+F) Quais as melhores opções sobre...
+G) Melhore essa explicação (resumida e objetiva) com fontes confiáveis sobre...
+H) Comparação Lúdica (objetiva) sobre...
+
+Capítulos do vídeo:<br>
+00:00 - Apresentação da Aula 01<br>
+02:20 - Utilizando o ChatGPT<br>
+10:00 - Início da Apresentação Aula 01<br>
+11:50 - Porte da Infraestrutura de Redes<br>
+21:20 - Tipos de Infraestrutura de Redes<br>
+24:44 - Tabela Resumida de Infraestrutura<br>
+30:30 - Componentes da Infraestrutura<br>
+34:05 - Passivos e Ativos de Redes<br>
+37:10 - Dispositivos Finais (Endpoints)<br>
+38:05 - Finalização e Conclusão<br>
+
