@@ -174,3 +174,36 @@ Capítulos do vídeo:<br>
 Link da vídeo aula: https://www.youtube.com/watch?v=KDg0yQ2BJGU
 
 Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-01.pdf
+
+# Início do Módulo 02 - Introdução a Redes de Computadores - Etapa 02
+
+## **📡 Modelo OSI, TCP, IP, PDU, Ciberataques, Ethernet, Encapsulamento, Segmentação | Módulo 02 Aula 05**
+
+Neste vídeo, vamos explorar os modelos de referência das redes, entender como as mensagens são transmitidas e também conhecer os principais tipos de ciberataques que ameaçam a comunicação digital.
+
+✅ O que você vai aprender neste vídeo:
+
+Modelo OSI (Open System Interconnection) e Modelo TCP/IP (Transmission Control Protocol).
+PDU (Protocol Data Unit) e sua importância na transmissão de dados.
+Principais ciberataques em redes de computadores:
+Exploit (explorar vulnerabilidades)
+Phishing (enganar usuários)
+Hijacking (sequestro de sessão)
+DoS (negação de serviço)
+Man-in-the-Middle (homem do meio)
+Spoofing (falsificação)
+Sniffing (captura de tráfego)
+Encapsulamento vs. Descapsulamento (como os dados são preparados e lidos na rede).
+Comunicação das Mensagens em Rede: Segmentação, Multiplexação (MUX) e Demultiplexação (DEMUX).
+Padrão Ethernet IEEE 802.3 nas redes locais.
+
+💡 Esse é o primeiro vídeo do Módulo 2, dividido em 4 partes, para você absorver o conteúdo de forma prática e organizada.
+
+Capítulos do vídeo:<br>
+00:00 - Apresentação da Aula 05<br>
+
+[![Módulo 01 Aula 05](http://img.youtube.com/vi/VO3XC15iWCU/0.jpg)](https://www.youtube.com/watch?v=VO3XC15iWCU "Módulo 02 Aula 05")
+
+Link da vídeo aula: https://www.youtube.com/watch?v=VO3XC15iWCU
+
+Link do material utilizado nesse vídeo: https://github.com/vaamonde/infraestrutura/blob/main/pdf/InfraestruturaDeRedes-02.pdf
